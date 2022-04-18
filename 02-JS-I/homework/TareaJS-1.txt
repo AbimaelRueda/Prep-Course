@@ -1,0 +1,5 @@
+Variable: Es un elemento que almacena información y que puede cambiar su contenido.
+String: Son letras, números y símbolos en conjunto.
+Funciones (argumentos, return): Es un método que recibe valores para hacer una acción y que al final te devolverá la solución.
+Declaraciones if: El IF es preguntarte: ¿se hace ó no?, para así saber si se cumple o no.
+Valores Booleano(true o false): Solo se tiene 2 respuestas, verdadero o falso como una pregunta de ¿si o no?.
