@@ -1,0 +1,4 @@
+For: Es entrar a un ciclo hasta que una condición lo pare, sirve para repetir varias veces una tarea.
+&&: Y es una condición que solo se aplica sí dos o más preguntas son ciertas.
+||: OR es una condición que se aplica cuando al menos una pregunta sea cierta.
+!: Not es una condición que da el opuesto al resultado.
