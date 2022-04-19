@@ -1,0 +1,1 @@
+Array: Es una lista de almanecamiento que puedes agregar datos de cualquier tipo dentro de ella.
