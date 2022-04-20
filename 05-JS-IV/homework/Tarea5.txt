@@ -1,0 +1,5 @@
+Objeto: Es crear una colección de propiedades y métodos.
+Propiedades: Son los valores a pasar en el objeto.
+Metodo: Es una acción o tarea a realizar para cumplir un objetivo.
+Bucle for... in: Es un cliclo que funciona como un for, utilizado para recorrer valores que no son numéricos.
+Notación de puntos vs Notación de corchetes: Las dos notaciones sirven para acceder a la propiedad de obajetos, en la notación de puntos solo se pueden acceder a la propiedad poniendo el nombre de esta y en la corchetes se puede acceder a la propiedad de diferentes formas como el nompre de la propiedad y a los métodos.
