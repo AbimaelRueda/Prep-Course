@@ -1,0 +1,2 @@
+PROTOTYPE: Es la clase padre, pocas palabras es lo que se le herada a tu clase cuando necesitas propiedades, métodos y constructores de él.
+Constructors: Sirva para crear una instancia de un objeto.
