@@ -1,0 +1,1 @@
+CALLBACK: Este sirve para mandar a llamar una función dentro de otra función como parámetro.
